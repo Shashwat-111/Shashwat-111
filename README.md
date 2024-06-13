@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Dubey</h1>
-<h3 align="center">A passionate frontend Flutter developer from India</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 <p align="left"> <a href="https://twitter.com/shashwatdubey_" target="blank"><img src="https://img.shields.io/twitter/follow/shashwatdubey_?logo=twitter&style=for-the-badge" alt="shashwatdubey_" /></a> </p>
 
