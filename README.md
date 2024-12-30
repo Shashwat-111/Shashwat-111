@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Shashwat Dubey</h1>
 <h3 align="left">A passionate Flutter developer</h3>
 
-- 🔭 I’m currently working on HistoricalOptions & Garma-Garam Tiffin App
+- 🔭 I’m currently working as a Flutter developer.
 
 - 🌱 I’m currently learning **BLoC State Management & Architecture**
+
+- 👨🏻‍💻 I’m open for freelacing projects.
 
 - 📫 How to reach me **shashwatdubey111@gmail.com**
 
